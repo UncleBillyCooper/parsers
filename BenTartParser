@@ -66,3 +66,6 @@ const getHTML=axios.get('https://www.tartextextiles.com/Jean-Cloth_c_14.html')
     
     
 })
+
+// airtable API key keyqBXUjRWwhafmU7
+// appCxZ411GXCRNFkJ
