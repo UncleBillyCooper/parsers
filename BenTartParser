@@ -69,3 +69,16 @@ const getHTML=axios.get('https://www.tartextextiles.com/Jean-Cloth_c_14.html')
 
 // airtable API key keyqBXUjRWwhafmU7
 // appCxZ411GXCRNFkJ
+
+
+//fetch('https://api.airtable.com/v0/appCxZ411GXCRNFkJ/tblvW2epdPIoA2V8R', {
+        //method: 'POST',
+        //headers: {
+          //'Authorization': 'Bearer keyqBXUjRWwhafmU7',
+          //'Content-Type': 'application/json'
+        //},
+        //body: JSON.stringify(totalArray)
+      //})
+      //.then(response => response.json())
+    
+//})
